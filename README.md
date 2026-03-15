@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0877-stone-game) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 ## Math
