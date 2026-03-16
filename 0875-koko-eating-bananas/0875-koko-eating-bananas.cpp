@@ -1,36 +1,34 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int findMax(vector<int>& piles){
-    int maxi = INT_MIN;
-    for(int x : piles){
-        maxi = max(maxi, x);
-    }
-    return maxi;
-}
-
-long long findTotalhours(vector<int>& piles, int hourly){
-    long long total = 0;
-    for(long long x : piles){
-        total += (x + hourly - 1) / hourly; 
-    }
-    return total;
-}
-
 class Solution {
 public:
+    int maxpiles(vector<int>& piles){
+        int maxi = INT_MIN;
+        for(int x : piles){
+            maxi = max(x, maxi);
+        }
+        return maxi;
+    }
+    long long totalhours(vector<int>& piles, int hourly){
+        long long total = 0;
+        for(long long x : piles){
+            total += (x + hourly - 1) / hourly;
+        }
+        return total;
+    }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low = 1;
-        int high = findMax(piles);
-
+        int low = 1;  
+        int high = maxpiles(piles);
         while(low <= high){
-            int mid = low + (high - low) / 2;
-            long long totalh = findTotalhours(piles, mid);
-
-            if(totalh <= h)
+            int mid = (low + high) / 2;
+            long long hours = totalhours(piles, mid);
+            if(hours <= h){
                 high = mid - 1;
-            else
+            }
+            else{
                 low = mid + 1;
+            }
         }
         return low;
     }
