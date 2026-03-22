@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/first-unique-even-element">4252. First Unique Even Element</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/first-unique-even-element">3866. First Unique Even Element</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Return an integer denoting the first <strong>even</strong> integer (earliest by array index) that appears <strong>exactly</strong> once in <code>nums</code>. If no such integer exists, return -1.</p>
 
