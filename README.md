@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2951-find-the-peaks](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2951-find-the-peaks/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
