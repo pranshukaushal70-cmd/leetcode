@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-capacity-box">4247. Minimum Capacity Box</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>capacity</code>, where <code>capacity[i]</code> represents the capacity of the <code>i<sup>th</sup></code> box, and an integer <code>itemSize</code> representing the size of an item.</p>
+<h2><a href="https://leetcode.com/problems/minimum-capacity-box">3861. Minimum Capacity Box</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>capacity</code>, where <code>capacity[i]</code> represents the capacity of the <code>i<sup>th</sup></code> box, and an integer <code>itemSize</code> representing the size of an item.</p>
 
 <p>The <code>i<sup>th</sup></code> box can store the item if <code>capacity[i] &gt;= itemSize</code>.</p>
 
