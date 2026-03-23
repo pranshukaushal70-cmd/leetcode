@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2951-find-the-peaks](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2951-find-the-peaks/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3866-first-unique-even-element) |
 ## Binary Search
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3866-first-unique-even-element) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -175,4 +177,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3340-check-balanced-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3340-check-balanced-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 <!---LeetCode Topics End-->
