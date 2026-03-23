@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Counting
 | Problem Name | Difficulty |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
