@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0231-power-of-two](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -204,5 +206,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0231-power-of-two](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
