@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
