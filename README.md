@@ -198,10 +198,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [3340-check-balanced-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3340-check-balanced-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
