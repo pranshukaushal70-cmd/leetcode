@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0877-stone-game](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -234,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0342-power-of-four/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
