@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Simulation
