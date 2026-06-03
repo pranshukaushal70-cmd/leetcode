@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
@@ -245,4 +246,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
