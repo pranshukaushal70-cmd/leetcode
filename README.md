@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 <!---LeetCode Topics End-->
