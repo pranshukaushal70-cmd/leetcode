@@ -10,10 +10,8 @@ public:
             if(m2.find(t[i]) != m2.end()){
                 if(m2[t[i]] != s[i]) return false;
             }
-            else{
-                m1[s[i]] = t[i];
-                m2[t[i]] = s[i];
-            }
+            m1[s[i]]=t[i];
+            m2[t[i]]=s[i];
         }
         return true;
     }
