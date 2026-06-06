@@ -214,12 +214,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
