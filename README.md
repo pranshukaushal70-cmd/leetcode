@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2278-percentage-of-letter-in-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3340-check-balanced-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
