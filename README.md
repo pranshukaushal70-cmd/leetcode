@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
