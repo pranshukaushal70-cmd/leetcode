@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -299,5 +302,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
