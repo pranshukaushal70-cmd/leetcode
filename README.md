@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -328,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 <!---LeetCode Topics End-->
