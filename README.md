@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
