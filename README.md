@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -341,4 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
