@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -387,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
