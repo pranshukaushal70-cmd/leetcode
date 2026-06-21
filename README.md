@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Stack
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0844-backspace-string-compare](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0844-backspace-string-compare](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
