@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3866-first-unique-even-element](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3866-first-unique-even-element) |
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -423,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Backtracking
