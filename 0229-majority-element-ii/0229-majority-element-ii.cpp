@@ -7,11 +7,11 @@ public:
         for (int num : nums) {
             if (num == el1) count1++;
             else if (num == el2) count2++;
-            else if (count1 == 0) {
+            else if (count1 == 0 && num != el2) {
                 el1 = num;
                 count1 = 1;
             }
-            else if (count2 == 0) {
+            else if (count2 == 0 && num != el1) {
                 el2 = num;
                 count2 = 1;
             }
@@ -20,21 +20,17 @@ public:
                 count2--;
             }
         }
-
-        
         count1 = 0;
         count2 = 0;
         for (int num : nums) {
             if (num == el1) count1++;
             else if (num == el2) count2++;
         }
-
         vector<int> result;
         int n = nums.size();
 
         if (count1 > n / 3) result.push_back(el1);
         if (count2 > n / 3) result.push_back(el2);
-
         return result;
     }
 };
