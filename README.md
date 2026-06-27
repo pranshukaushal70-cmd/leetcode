@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
