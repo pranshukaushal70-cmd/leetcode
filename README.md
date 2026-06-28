@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0542-01-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0542-01-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0877-stone-game](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0542-01-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0542-01-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
