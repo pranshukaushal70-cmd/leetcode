@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Two Pointers
