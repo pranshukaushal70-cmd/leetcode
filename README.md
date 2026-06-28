@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0542-01-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
