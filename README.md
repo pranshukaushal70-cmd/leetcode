@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0078-subsets/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
