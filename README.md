@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0846-hand-of-straights](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bucket Sort
@@ -545,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -578,4 +584,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
