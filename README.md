@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0547-number-of-provinces/) | Medium |
