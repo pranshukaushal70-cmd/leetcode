@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3866-first-unique-even-element](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3866-first-unique-even-element) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3340-check-balanced-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3340-check-balanced-string/) | Easy |
 ## Sorting
