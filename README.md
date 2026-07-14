@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0695-max-area-of-island](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -508,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0542-01-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -617,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
