@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2235-add-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Bit Manipulation
@@ -626,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -649,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
