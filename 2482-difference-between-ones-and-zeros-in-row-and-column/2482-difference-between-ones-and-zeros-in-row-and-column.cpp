@@ -1,0 +1,25 @@
+class Solution {
+public:
+    vector<vector<int>> onesMinusZeros(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<int> rowOnes(n, 0), colOnes(m, 0);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1) {
+                    rowOnes[i]++;
+                    colOnes[j]++;
+                }
+            }
+        }
+        vector<vector<int>> ans(n, vector<int>(m));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                int rowZeros = m - rowOnes[i];
+                int colZeros = n - colOnes[j];
+                ans[i][j] = rowOnes[i] + colOnes[j] - rowZeros - colZeros;
+            }
+        }
+        return ans;
+    }
+};
