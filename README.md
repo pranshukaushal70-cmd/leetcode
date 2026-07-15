@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
