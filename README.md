@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -677,4 +678,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
