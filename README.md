@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3340-check-balanced-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3340-check-balanced-string/) | Easy |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
