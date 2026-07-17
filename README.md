@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
