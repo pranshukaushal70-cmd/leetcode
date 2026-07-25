@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
