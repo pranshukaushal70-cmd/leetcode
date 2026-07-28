@@ -496,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3340-check-balanced-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3340-check-balanced-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Simulation
@@ -738,4 +740,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
