@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -394,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0721-accounts-merge/) | Medium |
