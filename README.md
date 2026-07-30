@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2235-add-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2278-percentage-of-letter-in-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3340-check-balanced-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3340-check-balanced-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
