@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0846-hand-of-straights](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [0851-loud-and-rich](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0851-loud-and-rich](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0851-loud-and-rich](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -727,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0851-loud-and-rich](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
