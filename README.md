@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2951-find-the-peaks](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3248-snake-in-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3248-snake-in-matrix/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -628,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bucket Sort
@@ -717,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
