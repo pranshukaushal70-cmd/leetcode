@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2951-find-the-peaks/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
