@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2951-find-the-peaks](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3248-snake-in-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
