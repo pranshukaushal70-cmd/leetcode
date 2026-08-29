@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0412-fizz-buzz](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0394-decode-string/) | Medium |
+| [0412-fizz-buzz](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
