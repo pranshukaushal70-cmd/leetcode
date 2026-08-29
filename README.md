@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
