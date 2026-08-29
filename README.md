@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1726-tuple-with-same-product](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
