@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
