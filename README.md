@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0455-assign-cookies](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0463-island-perimeter/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0143-reorder-list](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -550,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0621-task-scheduler/) | Medium |
