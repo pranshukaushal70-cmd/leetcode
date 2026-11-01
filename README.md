@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -676,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
