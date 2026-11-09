@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2235-add-two-integers](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [3248-snake-in-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3248-snake-in-matrix/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
