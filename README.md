@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2101-detonate-the-maximum-bombs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1726-tuple-with-same-product](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/pranshukaushal70-cmd/leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/pranshukaushal70-cmd/leetcode/tree/master/3866-first-unique-even-element) |
